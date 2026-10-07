@@ -10,9 +10,8 @@ authors:
   - family-names: Mascaro
     given-names: Giuseppe
     affiliation: Arizona State University
-license:
-  - CC-BY-4.0
-  - MIT
+license: CC-BY-4.0
+# The build script in scripts/ is MIT-licensed (see LICENSE).
 abstract: "Flood impacts and NWS Local Storm Reports for nine storms in Phoenix, Arizona (2014-2022). Data: CC BY 4.0; build script: MIT."
 version: 1.0.0
 date-released: 2026-10-05
