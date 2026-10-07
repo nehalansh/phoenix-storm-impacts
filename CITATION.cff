@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "phoenix-storm-impacts: flood and storm impacts of nine storms in Phoenix, Arizona (2014-2022), from NWS Local Storm Reports"
+type: dataset
+authors:
+  - family-names: Srivastava
+    given-names: Nehal
+    affiliation: Arizona State University
+    email: nsrivas7@asu.edu
+  - family-names: Mascaro
+    given-names: Giuseppe
+    affiliation: Arizona State University
+license:
+  - CC-BY-4.0
+  - MIT
+abstract: "Flood impacts and NWS Local Storm Reports for nine storms in Phoenix, Arizona (2014-2022). Data: CC BY 4.0; build script: MIT."
+version: 1.0.0
+date-released: 2026-10-05
+# TODO: add the Zenodo DOI after the first release
+keywords:
+  - storm impacts
+  - flooding
+  - Local Storm Reports
+  - monsoon
+  - Phoenix
+# Funding: NIST-NSF award #70NANB22H056 (DRRG)

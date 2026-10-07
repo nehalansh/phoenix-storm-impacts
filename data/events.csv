@@ -1,0 +1,10 @@
+event_id,precipitation_start_local,precipitation_end_local,precipitation_hours_note,precipitation_comment,impact_start_local,impact_end_local,impact_comment,wind_start_local,wind_end_local,wind_comment,download_start_utc,download_end_utc,n_flood_reports,n_storm_reports,n_storm_reports_in_event_window,flood_report_selection
+2014-08-19,2014-08-19 03:00,2014-08-19 22:00,,No MRMS,2014-08-19 06:00,2014-08-19 23:00,"Conditions deteriorated quickly as storms expanded and intensified, with numerous reports of flooded streets and underpasses by 7 am.",2014-08-19 06:00,2014-08-19 23:00,"Conditions deteriorated quickly as storms expanded and intensified, with numerous reports of flooded streets and underpasses by 7 am.",2014-08-18 19:00,2014-08-22 13:00,6,44,33,rule
+2015-08-31,2015-08-31 19:00,2015-08-31 23:00,"8 PM, 9 PM",,,,,,,,2015-08-26 19:00,2015-09-02 13:00,4,82,38,reviewed
+2018-07-09,2018-07-09 16:00,2018-07-09 19:00,17:00:00,,2018-07-09 16:00,2018-07-09 19:00,,2018-07-09 16:00,2018-07-09 19:00,,2018-07-08 19:00,2018-07-12 19:00,3,121,49,reviewed
+2018-10-02,2018-10-02 01:00,2018-10-02 23:00,"2 AM, 3 AM, 6 - 10 AM, 6 PM",,2018-10-02 01:00,2018-10-02 23:00,,2018-10-02 01:00,2018-10-02 23:00,,2018-10-01 19:00,2018-10-03 13:00,11,39,39,reviewed
+2021-07-22,2021-07-22 21:00,2021-07-23 22:00,"23 - 6 AM, 4 PM, 5 PM",,,,,,,,2021-07-20 19:00,2021-07-27 13:00,4,77,33,reviewed
+2021-08-13,2021-08-13 19:00,2021-08-14 06:00,"11 PM, 4 AM",,2021-08-13 19:00,2021-08-14 03:00,,2021-08-13 19:00,2021-08-14 03:00,,2021-08-12 19:00,2021-08-14 13:00,7,44,37,reviewed
+2021-08-17,2021-08-16 23:00,2021-08-18 19:00,17 - 12 AM,MRMS does not seem correct at some hours; similar storm clusters at same place for multiple time intervals,2021-08-17 22:00,,,2021-08-17 22:00,,,2021-08-15 19:00,2021-08-20 13:00,10,95,75,reviewed
+2022-07-30,2022-07-30 15:00,2022-07-30 22:00,"6 PM, 7 PM",,2022-07-30 15:00,2022-07-30 22:00,,2022-07-30 15:00,2022-07-30 22:00,,2022-07-27 19:00,2022-08-01 13:00,7,71,53,reviewed
+2022-08-04,2022-08-04 04:00,2022-08-04 07:00,05:00:00,,2022-08-04 04:00,2022-08-04 07:00,,2022-08-04 04:00,2022-08-04 07:00,,2022-08-02 19:00,2022-08-06 13:00,4,7,5,reviewed
